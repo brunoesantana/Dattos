@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Dattos\Dattos\bin\Debug\net5.0\Dattos.exe
+C:\Users\DELL\source\repos\Dattos\Dattos\bin\Debug\net5.0\Dattos.deps.json
+C:\Users\DELL\source\repos\Dattos\Dattos\bin\Debug\net5.0\Dattos.runtimeconfig.json
+C:\Users\DELL\source\repos\Dattos\Dattos\bin\Debug\net5.0\Dattos.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Dattos\Dattos\bin\Debug\net5.0\Dattos.dll
+C:\Users\DELL\source\repos\Dattos\Dattos\bin\Debug\net5.0\ref\Dattos.dll
+C:\Users\DELL\source\repos\Dattos\Dattos\bin\Debug\net5.0\Dattos.pdb
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.dll
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\ref\Dattos.dll
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.pdb
+C:\Users\DELL\source\repos\Dattos\Dattos\obj\Debug\net5.0\Dattos.genruntimeconfig.cache
